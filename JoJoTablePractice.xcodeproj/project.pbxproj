@@ -15,6 +15,7 @@
 		4FCA987125492E8300CC865D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FCA986F25492E8300CC865D /* LaunchScreen.storyboard */; };
 		4FCA987C25492E8400CC865D /* JoJoTablePracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA987B25492E8400CC865D /* JoJoTablePracticeTests.swift */; };
 		4FCA988725492E8400CC865D /* JoJoTablePracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA988625492E8400CC865D /* JoJoTablePracticeUITests.swift */; };
+		4FCA989825495AFE00CC865D /* LabelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA989725495AFE00CC865D /* LabelViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4FCA988225492E8400CC865D /* JoJoTablePracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JoJoTablePracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FCA988625492E8400CC865D /* JoJoTablePracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoJoTablePracticeUITests.swift; sourceTree = "<group>"; };
 		4FCA988825492E8400CC865D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FCA989725495AFE00CC865D /* LabelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				4FCA986625492E7E00CC865D /* SceneDelegate.swift */,
 				4FCA986825492E7E00CC865D /* ViewController.swift */,
 				4FCA986A25492E7F00CC865D /* Main.storyboard */,
+				4FCA989725495AFE00CC865D /* LabelViewController.swift */,
 				4FCA986D25492E8300CC865D /* Assets.xcassets */,
 				4FCA986F25492E8300CC865D /* LaunchScreen.storyboard */,
 				4FCA987225492E8300CC865D /* Info.plist */,
@@ -261,6 +264,7 @@
 				4FCA986925492E7E00CC865D /* ViewController.swift in Sources */,
 				4FCA986525492E7E00CC865D /* AppDelegate.swift in Sources */,
 				4FCA986725492E7E00CC865D /* SceneDelegate.swift in Sources */,
+				4FCA989825495AFE00CC865D /* LabelViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
